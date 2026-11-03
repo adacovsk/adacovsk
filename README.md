@@ -17,17 +17,3 @@ Hydrogeologist and data engineer in Denver. I build calibrated groundwater model
 | Cloud & DevOps | GCP, AWS, Pulumi, Docker, GitHub Actions, Cloud Build, pytest |
 | Visualization | Plotly, Dash, Matplotlib, React, Three.js, QGIS |
 | Domain Tools | Leapfrog, MODFLOW 6, FloPy, FEFLOW, MINEDW, PEST/PEST++ |
-
-**bevy-rpg: Tactical CRPG (Rust/Bevy) *(private)*** — An isometric tactical CRPG built on the ORC-licensed d20 ruleset: ~450k lines of Rust, ~9,300 tests, 18k+ commits since July 2025.
-
-- Rules engine: 130+ ECS systems covering characters, ancestries, classes, feats, spells, conditions, degree-of-success combat, encumbrance, stealth, summoning, rest, and earning income
-- Living world: procedural terrain (Voronoi diagrams, Perlin noise), biomes, settlements, dungeons, and roads; caravans with their own economics, NPC routines and pathfinding, generated quests, and random encounters
-- Data-driven content: ~300 JSON content files with generated schemas, 40+ validation guards, and hot reload; no content identifiers hardcoded in Rust
-- Pipeline: deterministic asset builds (sprites, atlases, Tiled maps), GPU particle VFX with bevy_hanabi, and performance budgets checked against Chrome traces
-- Agent-run development: a team of AI agents (architect, planner, coordinator, tester) orchestrated through Paperclip, landing changes through a local verification gate with cost-budgeted CI behind it
-- Contributed features and core-system improvements to open-source projects, including a multiplayer game server
-
-**Other projects**
-
-- [**typefossil**](https://github.com/adacovsk/typefossil) — Recovers a working digital typeface from photographs of a printed book by averaging hundreds of impressions of each sort.
-- [**python-experiments**](https://github.com/adacovsk/python-experiments) — ML odds and ends: Real-ESRGAN video upscaling and FLUX-painted game icons and portraits.
