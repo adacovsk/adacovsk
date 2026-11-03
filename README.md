@@ -11,12 +11,13 @@ Hydrogeologist and data engineer in Denver. I build calibrated groundwater model
 
 | | |
 |---|---|
-| Modeling & Statistics | Bayesian inverse modeling, Iterative ensemble smoothers (IES), Uncertainty quantification, Parameter estimation, scikit-learn, PyTorch |
+| Modeling & Statistics | Groundwater flow and contaminant transport, Unsaturated flow, Mine dewatering, Bayesian inverse modeling, Iterative ensemble smoothers (IES), Uncertainty quantification, Parameter estimation, scikit-learn, PyTorch |
 | Data Engineering | ETL pipelines, Data modeling, PostgreSQL, Cloud SQL, DuckDB, DuckLake, FastAPI |
 | Languages | Python, pandas, NumPy, SciPy, GeoPandas, SQL, Rust, C++, Git |
-| Cloud & DevOps | GCP, AWS, Pulumi, Docker, GitHub Actions, Cloud Build, pytest |
+| Cloud & DevOps | GCP, Cloud Run, Cloud SQL, Cloud Storage, Eventarc, Compute Engine spot fleets, Managed Instance Groups, AWS, Pulumi, Docker, GitHub Actions, Cloud Build, pytest |
+| AI (personal projects) | AI agent orchestration (graph workflows, Paperclip), Gemini vision extraction of images and technical PDFs into structured data, with human-in-the-loop review, Automated technical reporting |
 | Visualization | Plotly, Dash, Matplotlib, React, Three.js, QGIS |
-| Domain Tools | Leapfrog, MODFLOW 6, FloPy, FEFLOW, MINEDW, PEST/PEST++ |
+| Domain Tools | Leapfrog, MODFLOW 6, FloPy, FEFLOW, MINEDW, PEST++ |
 
 **bevy-rpg: Tactical CRPG (Rust/Bevy) *(private)*** — An isometric tactical CRPG built on the ORC-licensed d20 ruleset: ~450k lines of Rust, ~9,300 tests, 18k+ commits since July 2025.
 
@@ -26,6 +27,11 @@ Hydrogeologist and data engineer in Denver. I build calibrated groundwater model
 - Pipeline: deterministic asset builds (sprites, atlases, Tiled maps), GPU particle VFX with bevy_hanabi, and performance budgets checked against Chrome traces
 - Agent-run development: a team of AI agents (architect, planner, coordinator, tester) orchestrated through Paperclip, landing changes through a local verification gate with cost-budgeted CI behind it
 - Contributed features and core-system improvements to open-source projects, including a multiplayer game server
+
+**Image-to-Structured-Data Extraction** — Turns images and scanned technical documents into structured data with Gemini vision, with a human reviewing and correcting each extraction.
+
+- Gemini vision model extracts fields from images and technical PDFs into structured records
+- Human-in-the-loop review step confirms or corrects every extraction before it is kept
 
 **Other projects**
 
