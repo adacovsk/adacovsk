@@ -26,7 +26,6 @@ Hydrogeologist and data engineer in Denver. I build calibrated groundwater model
 - Data-driven content: ~300 JSON content files with generated schemas, 40+ validation guards, and hot reload; no content identifiers hardcoded in Rust
 - Pipeline: deterministic asset builds (sprites, atlases, Tiled maps), GPU particle VFX with bevy_hanabi, and performance budgets checked against Chrome traces
 - Agent-run development: a team of AI agents (architect, planner, coordinator, tester) orchestrated through Paperclip, landing changes through a local verification gate with cost-budgeted CI behind it
-- Contributed features and core-system improvements to open-source projects, including a multiplayer game server
 
 **Image-to-Structured-Data Extraction** — Turns images and scanned technical documents into structured data with Gemini vision, with a human reviewing and correcting each extraction.
 
