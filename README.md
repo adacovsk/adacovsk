@@ -27,9 +27,6 @@ Hydrogeologist and data engineer in Denver. I build calibrated groundwater model
 - Pipeline: deterministic asset builds (sprites, atlases, Tiled maps), GPU particle VFX with bevy_hanabi, and performance budgets checked against Chrome traces
 - Agent-run development: a team of AI agents (architect, planner, coordinator, tester) orchestrated through Paperclip, landing changes through a local verification gate with cost-budgeted CI behind it
 
-**Open-Source Contributions** — Contributed features and core-system improvements to open-source projects, including a multiplayer game server.
-
-
 **Image-to-Structured-Data Extraction** — Turns images and scanned technical documents into structured data with Gemini vision, with a human reviewing and correcting each extraction.
 
 - Gemini vision model extracts fields from images and technical PDFs into structured records
@@ -37,5 +34,6 @@ Hydrogeologist and data engineer in Denver. I build calibrated groundwater model
 
 **Other projects**
 
+- [**vgstation13: Open-Source Multiplayer Game Server**](https://github.com/vgstation-coders/vgstation13/pulls?q=is%3Apr+author%3Aadacovsk+is%3Amerged) — 189 merged pull requests to a long-running open-source Space Station 13 server.
 - [**typefossil**](https://github.com/adacovsk/typefossil) — Recovers a working digital typeface from photographs of a printed book by averaging hundreds of impressions of each sort.
 - [**python-experiments**](https://github.com/adacovsk/python-experiments) — ML odds and ends: Real-ESRGAN video upscaling and FLUX-painted game icons and portraits.
